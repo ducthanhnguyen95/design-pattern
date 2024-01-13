@@ -1,5 +1,4 @@
-import com.thanhnd.memento.Editor;
-import com.thanhnd.memento.History;
+package com.thanhnd.memento;
 
 public class Main {
     public static void main(String[] args) {
